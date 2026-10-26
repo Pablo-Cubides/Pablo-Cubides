@@ -1,66 +1,43 @@
-<div align="center">
-
 # Pablo Andrés Cubides
 
-**AI Automation & Full-Stack Developer**  
-**Building practical AI tools, automation systems, and modern web products**
+**Full-Stack Developer · TypeScript, Next.js & Python · AI integrations and automation**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white)
+I build web applications and automation tools for educational, environmental and operational workflows. My work spans interactive interfaces, APIs, persistence, third-party integrations and applications that use language models.
 
-</div>
+## Start with these projects
 
-I build software that turns complex workflows into usable products: AI assistants, LLM-powered tools, automation systems, data apps, and deployable web interfaces.
+| Project | What to inspect | Main technologies |
+|---|---|---|
+| [AquatechIA](https://github.com/Pablo-Cubides/Aquatech-IA_webpage) · [Website](https://aquatechia.com) | A product combining AI education and environmental analysis: shared packages, interactive tools, API integrations, tests and architecture decisions | Next.js, React, TypeScript, Prisma/PostgreSQL |
+| [Triarvon / Spartan](https://github.com/Pablo-Cubides/Spartan_webpage) · [Website](https://www.triarvon.com) | Product interfaces, account and credit workflows, AI style tools and payment webhook implementations | Next.js, TypeScript, Firebase, Prisma/PostgreSQL |
+| [Cubides Bots — public edition](https://github.com/Pablo-Cubides/Cubides_bots_public) | Runnable, offline examples of explicit approval commands, editorial scheduling and content-quality checks using synthetic inputs | JavaScript, Node.js, automated tests |
 
-Trabajo creando soluciones prácticas con IA, automatización y desarrollo web: asistentes inteligentes, bots, herramientas educativas, aplicaciones de datos y productos digitales listos para usuarios reales.
+The standalone [WhatsApp LLM chatbot](https://github.com/Pablo-Cubides/chatbot-whatsapp-llm) is a historical project whose automation work continued in the broader bots workspace. It remains available for technical reference and limited maintenance. Archived tool repositories document earlier components now integrated into the web products.
 
-## Portfolio Focus
+## Concrete automation examples
 
-If you are reviewing my profile, start here. These projects represent the work I want to be evaluated by: applied AI, automation, product thinking, and frontend execution.
+The public bots toolkit can be inspected without connecting an account or supplying a key:
 
-| Project | What it demonstrates | Stack |
-| --- | --- | --- |
-| [Aquatech IA Webpage](https://github.com/Pablo-Cubides/Aquatech-IA_webpage) · [Live](https://webpage-xi-seven.vercel.app) | Product-oriented AI/web concept with a deployed interface | TypeScript, JavaScript, CSS, Vercel |
-| [WhatsApp LLM Chatbot](https://github.com/Pablo-Cubides/chatbot-whatsapp-llm) | Conversational automation and LLM workflow development | Python, JavaScript, HTML, Docker |
-| [Cubides Bots Public](https://github.com/Pablo-Cubides/Cubides_bots_public) | Bot tooling, automation scripts, and multi-language workflow engineering | JavaScript, TypeScript, Python, Docker |
-| [Spartan Webpage](https://github.com/Pablo-Cubides/Spartan_webpage) · [Live](https://webpage-xi-seven-three.vercel.app) | Deployed TypeScript web product with frontend/product execution | TypeScript, JavaScript, CSS, Docker |
+```sh
+git clone https://github.com/Pablo-Cubides/Cubides_bots_public.git
+cd Cubides_bots_public
+npm ci
+npm run check
+```
 
-## What I Do
+Its dry run distinguishes approval from revision, proposes a weekly content plan, and reports content/SEO quality issues. It does not send messages, publish content or access private operational data.
 
-- **AI and LLM applications:** chatbots, assistants, prompt-driven tools, and educational explainers.
-- **Automation systems:** bots, scripts, workflow automation, and productivity tools.
-- **Web products:** TypeScript frontends, deployed interfaces, and product-focused experiences.
-- **Data and education tools:** analysis apps, academic utilities, visualizers, and learning platforms.
+## How I approach software
 
-## Technical Stack
+- Separate interfaces, validation, decision logic and external side effects.
+- Use explicit contracts, database migrations and automated checks where the workflow needs them.
+- Build tools around domain-specific tasks, especially education and environmental analysis.
+- Document setup, limitations and the configuration needed for external integrations.
 
-**Core:** TypeScript, Python, JavaScript  
-**Frontend:** HTML, CSS, modern web interfaces, Vercel deployments  
-**Automation:** bots, scripts, API integrations, Dockerized workflows  
-**AI focus:** LLM apps, conversational tools, prompt workflows, applied AI products
+## Professional focus
 
-## Recruiter Snapshot
+My strongest portfolio fit is **full-stack development with AI integrations**, followed by **automation development** and **Python/TypeScript API integrations**. For backend-oriented reviews, I can walk through authentication, persistence, queues, retries and service boundaries in the relevant projects.
 
-- I move comfortably between product thinking and implementation.
-- I can prototype quickly, connect APIs, automate workflows, and ship usable interfaces.
-- I focus on practical AI: assistants, automations, educational tools, and business-facing apps.
-- I care about clarity: readable projects, visible demos, and software that solves real tasks.
+**En español:** desarrollo aplicaciones web y automatizaciones con TypeScript, Next.js y Python, con especial interés en herramientas educativas, ambientales e integraciones con IA. Busco oportunidades en desarrollo full stack, automatización e IA aplicada a productos. El código, las demostraciones y sus limitaciones están enlazados arriba.
 
-## Current Focus
-
-- Building AI-powered assistants and automation systems.
-- Improving portfolio projects with better documentation, demos, and deployment quality.
-- Turning academic, business, and data workflows into interactive software.
-
-## En Español
-
-Soy Pablo Andrés Cubides, desarrollador enfocado en IA aplicada, automatización y productos web. Me interesa construir herramientas que resuelvan problemas concretos: desde chatbots y bots de productividad hasta aplicaciones educativas, visualizadores y sistemas de análisis.
-
-Busco oportunidades donde pueda aportar en desarrollo de software, automatización con IA, integraciones, prototipado rápido y creación de productos digitales útiles para equipos, estudiantes o usuarios finales.
-
----
-
-You can explore my work here on GitHub or connect with me through my profile links.
+[GitHub](https://github.com/Pablo-Cubides) · [AquatechIA](https://aquatechia.com) · [Triarvon](https://www.triarvon.com)
