@@ -27,6 +27,8 @@ npm run check
 
 Its dry run distinguishes approval from revision, proposes a weekly content plan, and reports content/SEO quality issues. It does not send messages, publish content or access private operational data.
 
+For a complete example, inspect the [editorial workflow output](https://github.com/Pablo-Cubides/Cubides_bots_public/blob/main/docs/workflow-example.json): an ambiguous request waits, an incomplete draft is blocked, and an approved valid draft produces a proposed schedule.
+
 ## How I approach software
 
 - Separate interfaces, validation, decision logic and external side effects.
