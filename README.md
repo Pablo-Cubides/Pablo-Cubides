@@ -36,7 +36,7 @@ Its dry run distinguishes approval from revision, proposes a weekly content plan
 
 ## Professional focus
 
-My strongest portfolio fit is **full-stack development with AI integrations**, followed by **automation development** and **Python/TypeScript API integrations**. For backend-oriented reviews, I can walk through authentication, persistence, queues, retries and service boundaries in the relevant projects.
+I’m interested in **full-stack and automation roles** where I can build useful products, integrate APIs and apply AI to operational workflows. My projects include authentication, persistence, queues and service integrations in Python and TypeScript.
 
 **En español:** desarrollo aplicaciones web y automatizaciones con TypeScript, Next.js y Python, con especial interés en herramientas educativas, ambientales e integraciones con IA. Busco oportunidades en desarrollo full stack, automatización e IA aplicada a productos. El código, las demostraciones y sus limitaciones están enlazados arriba.
 
